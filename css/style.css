@@ -7,14 +7,14 @@ body {
 }
 
 header, footer {
-  background-color: #97a97c;
+  background-color: #b45f06;
   text-align: center;
   /* min-width: 500px; */
 }
 
 header {
   font-family: 'Fraunces', serif;
-  color: #fff;
+  color: #f5f2d0;
   min-height: 75vh;
   display: flex;
 }
@@ -32,7 +32,7 @@ main {
 
 h1 {
   font-family: 'Fraunces', serif;
-  font-size: calc(1em + 3vw);
+  font-size: calc(1em + 2vw);
   padding-bottom: .67em;
   border-bottom: 1px solid;
   line-height: 1.3;
@@ -44,7 +44,7 @@ h2 {
   font-weight: 600;
   letter-spacing: 0.3px;
   text-align: left;
-  color: #97a97c;
+  color: #b45f06;
   padding: 10px 0px 10px 10px;
 }
 
@@ -77,12 +77,12 @@ img {
 .wrapper {
     max-width: 1150px;
     margin: auto;
-    padding: 25px;
+    padding: 15px;
     display: block;
 }
 
 .bio {
-  color: #ffffff;
+  color: #f5f2d0;
   font-size: 24px;
   font-family: 'Work Sans';
 }
@@ -95,9 +95,9 @@ img {
 
 .myButton {
   border-radius: 28px;
-  border: 1px solid #ffffff;
+  border: 1px solid #f5f2d0;
   cursor: pointer;
-  color: #ffffff;
+  color: #f5f2d0;
   font-size: 20px;
   padding: 16px 31px;
   text-decoration: none;
@@ -105,7 +105,7 @@ img {
 }
 
 .myButton:hover {
-    background-color:#e69708;
+    background-color:#783f04;
 }
 
 .myButton:active {
@@ -119,7 +119,7 @@ img {
 }
 
 a {
-  color: #6e7a5b;
+  color: #b45f06;
 }
 
 footer {
